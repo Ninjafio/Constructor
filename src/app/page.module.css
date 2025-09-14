@@ -1,7 +1,18 @@
 .page {
   font-family: var(--font-geist-sans);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 900px;
 }
 
 .link_btn {
   text-decoration: none;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: rgb(0, 7, 48);
+  padding: 20px;
+  border-radius: 20px;
 }
